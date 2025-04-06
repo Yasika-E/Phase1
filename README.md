@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Yasika-E/Phase1/tree/master/0029-divide-two-integers) |
 | [0070-climbing-stairs](https://github.com/Yasika-E/Phase1/tree/master/0070-climbing-stairs) |
 ## Dynamic Programming
 |  |
@@ -27,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Yasika-E/Phase1/tree/master/0070-climbing-stairs) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/Yasika-E/Phase1/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
